@@ -3,6 +3,7 @@ WB1/NSDUH_2022.dta filter=lfs diff=lfs merge=lfs -text
 WB2/anes_timeseries_2020_stata_20210324.dta filter=lfs diff=lfs merge=lfs -text
 *.dta filter=lfs diff=lfs merge=lfs -text
 WB4/clean_terror_data.csv filter=lfs diff=lfs merge=lfs -text
+WB7/forecasts_and_truth.csv filter=lfs diff=lfs merge=lfs -text
 *.DS_Store filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
